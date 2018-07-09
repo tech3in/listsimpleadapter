@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyListView3</string>
+    <string name="item_qty">Item Qty</string>
+    <string name="enter_item_qty">Enter Item Qty</string>
+    <string name="item_price">Item Price</string>
+    <string name="enter_item_price">Enter Item Price</string>
+    <string name="save">Save</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="qty">Qty</string>
+    <string name="wait_txt">Wait!!!</string>
+    <string name="warning_msg">This item will be deleted.Are your sure?</string>
+    <string name="del">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="shopping_app">Shopping App</string>
+    <string name="sub_title">Manage Items</string>
+</resources>
